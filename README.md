@@ -25,3 +25,5 @@ addition_test.AddTest("99 + 5", function(assert) {
   assert( result == 104 );
 }, 3); // Will automatically fail this test if not asserted after 3 seconds
 ```
+This would give the following:
+![All tests passed](https://github.com/mwrouse/js-testy-test/blob/master/pictures/addition.png?raw=true)
