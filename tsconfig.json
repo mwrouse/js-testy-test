@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "rootDir": "src/",
+        "outDir": "dist/",
+        "target": "es5",
+        "module": "amd",
+        "removeComments": true
+    },
+    "atom": {
+      "rewriteTsconfig": true
+    }
+}
